@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="calc_text">0</string>
+    <string name="numSeven">7</string>
+    <string name="numEight">8</string>
+    <string name="numNine">9</string>
+    <string name="DivideSign">/</string>
+    <string name="numFour">4</string>
+    <string name="numFive">5</string>
+    <string name="numSix">6</string>
+    <string name="multiply">*</string>
+    <string name="numOne">1</string>
+    <string name="numTwo">2</string>
+    <string name="numThree">3</string>
+    <string name="subtract">-</string>
+    <string name="numZero">0</string>
+    <string name="clr_text">CLR</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="dot">.</string>
 </resources>
