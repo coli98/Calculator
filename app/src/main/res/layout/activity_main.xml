@@ -60,7 +60,7 @@
             android:layout_weight="1"
             android:text="@string/DivideSign"
             android:layout_margin="2dp"
-            android:onClick="onDigit"
+            android:onClick="onOperator"
             />
             </LinearLayout>
 
@@ -104,7 +104,7 @@
             android:layout_weight="1"
             android:text="@string/multiply"
             android:layout_margin="2dp"
-            android:onClick="onDigit"
+            android:onClick="onOperator"
             />
     </LinearLayout>
 
@@ -148,7 +148,7 @@
             android:layout_weight="1"
             android:text="@string/subtract"
             android:layout_margin="2dp"
-            android:onClick="onDigit"
+            android:onClick="onOperator"
             />
     </LinearLayout>
 
@@ -192,7 +192,7 @@
             android:layout_weight="1"
             android:text="@string/plus"
             android:layout_margin="2dp"
-            android:onClick="onDigit"
+            android:onClick="onOperator"
             />
     </LinearLayout>
 
@@ -209,7 +209,7 @@
             android:layout_weight="2"
             android:text="@string/equal"
             android:layout_margin="2dp"
-            android:onClick="onDigit"
+            android:onClick="onEqual"
             />
     </LinearLayout>
 
